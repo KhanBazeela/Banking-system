@@ -1,6 +1,4 @@
-using System;
-
-namespace MyApplication
+﻿namespace MyApplication
 {
   class Program
 {
